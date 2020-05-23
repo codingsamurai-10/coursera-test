@@ -1,0 +1,7 @@
+.row {
+    background-color: grey;
+}
+
+.col-md-4 {
+    border: 1px solid red;
+}
